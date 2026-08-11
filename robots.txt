@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-sx38ji.privatetalks.online/sitemap.xml
